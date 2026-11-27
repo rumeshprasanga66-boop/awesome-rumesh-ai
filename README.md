@@ -8,6 +8,7 @@ A curated index of open-source **AI agents, LLM tools, full-stack web applicatio
 - [Applications](#applications)
 - [Starters & templates](#starters--templates)
 - [Learning & notes](#learning--notes)
+- [Writing](#writing)
 - [Contributing](#contributing)
 
 ## AI agents & LLM tooling
@@ -47,6 +48,17 @@ A curated index of open-source **AI agents, LLM tools, full-stack web applicatio
 - [AI Prompt Portfolio](https://github.com/rumeshprasanga66-boop/ai-prompt-portfolio) â€” prompt engineering portfolio site
 - [Reading Notes](https://github.com/rumeshprasanga66-boop/reading-notes) â€” AI and machine learning reading notes
 - [Dev Notes](https://github.com/rumeshprasanga66-boop/dev-notes) â€” full-stack development references
+
+## Writing
+
+Practical notes on AI agents, RAG and full-stack work:
+
+- [I Fixed a Broken Link in Create T3 App — Here’s What Open Source Actually Rewards](https://rumesh.substack.com/p/i-fixed-a-broken-link-in-create-t3)
+- [I Gave My AI Agent a Memory With mem0 — Here’s What Actually Changed](https://rumesh.substack.com/p/i-gave-my-ai-agent-a-memory-with)
+- [A Minimal RAG Setup That Actually Works (No Vector Database)](https://rumesh.substack.com/p/a-minimal-rag-setup-that-actually)
+- [The AI Product Stack I Actually Use as a Solo Developer in 2026](https://rumesh.substack.com/p/the-ai-product-stack-i-actually-use)
+
+[Subscribe on Substack](https://rumesh.substack.com/subscribe)
 
 ## Contributing
 
